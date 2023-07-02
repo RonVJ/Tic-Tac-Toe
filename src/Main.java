@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Tic Tac Toe Application
 public class Main {
     public static void main(String[] args) {
         GameController gameController = new GameController();
